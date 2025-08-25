@@ -1,2 +1,128 @@
-# We-Are-Customr
-Email Creation and hosing for We Are Customr
+[gazman_price_drop_mirror.html](https://github.com/user-attachments/files/21967421/gazman_price_drop_mirror.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GAZMAN – Price Drop Alert</title>
+  <style>
+    /* Basic reset */
+    html, body { margin:0; padding:0; background:#ffffff; }
+    body { font-family: Montserrat, Arial, Helvetica, sans-serif; color:#002144; }
+    a { color:#002144; text-decoration:none; }
+    .container { max-width:600px; margin:0 auto; }
+    .spacer-10 { height:10px; }
+    .spacer-15 { height:15px; }
+    .spacer-20 { height:20px; }
+    .spacer-25 { height:25px; }
+    .spacer-30 { height:30px; }
+    .center { text-align:center; }
+    .btn { display:inline-block; padding:10px 15px; background:#002144; color:#fff; font-size:12px; }
+    .grid { display:grid; grid-template-columns: 1fr 1fr; gap:20px; }
+    .card { display:flex; gap:10px; align-items:center; }
+    .price-old { text-decoration: line-through; font-size:12px; }
+    .price { font-size:14px; }
+    footer { background:#fbf9f9; padding:40px 20px; }
+    .logo { width:193px; height:auto; }
+    .socials { display:flex; gap:10px; justify-content:center; }
+    .terms { font-size:9px; font-weight:bold; }
+    .fine { font-size:9px; line-height:1.5; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="spacer-20"></div>
+    <div class="center">
+      <a href="#" aria-label="View online">VIEW ONLINE</a>
+    </div>
+    <div class="spacer-10"></div>
+
+    <!-- Hero GIF -->
+    <div class="center">
+      <img src="https://image.gazman.com.au/custloads/794115570/md_872790.gif" width="600" alt="Price Drop!" style="display:block; margin:0 auto;">
+    </div>
+
+    <div class="spacer-25"></div>
+    <div class="center" style="letter-spacing:0.5px;">
+      <strong>Hi there,</strong>
+    </div>
+    <div class="spacer-23"></div>
+
+    <!-- Secondary hero -->
+    <div class="center">
+      <img src="https://image.gazman.com.au/custloads/794115570/md_872134.jpg" width="600" alt="" style="display:block; margin:0 auto;">
+    </div>
+
+    <div class="spacer-20"></div>
+
+    <!-- Product grid (static placeholders; replace as needed) -->
+    <div class="grid">
+      <div class="card">
+        <img src="https://image.gazman.com.au/custloads/794115570/md_872135.jpg" alt="" width="138" style="display:block;">
+        <div>
+          <div style="font-weight:bold; line-height:1.2;">Product Title</div>
+          <div class="spacer-10"></div>
+          <div class="price-old">$129.95</div>
+          <div class="spacer-5"></div>
+          <div class="price">$89.95</div>
+          <div class="spacer-10"></div>
+          <a class="btn" href="https://www.gazman.com.au/" target="_blank" rel="noopener">Buy now</a>
+        </div>
+      </div>
+      <div class="card">
+        <img src="https://image.gazman.com.au/custloads/794115570/md_872135.jpg" alt="" width="138" style="display:block;">
+        <div>
+          <div style="font-weight:bold; line-height:1.2;">Product Title</div>
+          <div class="spacer-10"></div>
+          <div class="price-old">$139.95</div>
+          <div class="spacer-5"></div>
+          <div class="price">$99.95</div>
+          <div class="spacer-10"></div>
+          <a class="btn" href="https://www.gazman.com.au/" target="_blank" rel="noopener">Buy now</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="spacer-25"></div>
+
+    <!-- Promo image (re-using asset) -->
+    <div class="center">
+      <img src="https://image.gazman.com.au/custloads/794115570/md_872135.jpg" width="600" alt="" style="display:block; margin:0 auto;">
+    </div>
+
+    <div class="spacer-30"></div>
+
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="center">
+      <img class="logo" src="https://suite34.emarsys.net/custloads/794115570/logo2.png" alt="GAZMAN">
+    </div>
+    <div class="spacer-36"></div>
+    <div class="socials">
+      <a href="https://www.instagram.com/gazman/" target="_blank" rel="noopener" aria-label="Instagram">
+        <img src="https://suite34.emarsys.net/custloads/794115570/instagram.png" width="36" alt="Instagram">
+      </a>
+      <a href="https://www.facebook.com/gazmanclothing/" target="_blank" rel="noopener" aria-label="Facebook">
+        <img src="https://suite34.emarsys.net/custloads/794115570/facebook.png" width="36" alt="Facebook">
+      </a>
+    </div>
+
+    <div class="spacer-30"></div>
+    <div class="center terms">TERMS &amp; CONDITIONS</div>
+    <div class="spacer-5"></div>
+    <div class="center fine">
+      Please note prices are subject to change. For full terms and conditions please contact your nearest store, or call 1300 987 289.
+      All offers are correct at the time of publishing and may be subject to change without prior notice. Not all styles are available
+      in all GAZMAN stores. We recommend that you confirm stock availability directly with the store to avoid disappointment.
+    </div>
+    <div class="spacer-15"></div>
+    <div class="center fine">© 2025 GAZMAN, ALL RIGHTS RESERVED.</div>
+    <div class="spacer-15"></div>
+    <div class="center" style="font-size:8px;">You are receiving this email because you signed up to the GAZMAN mailing list. If you no longer wish to receive our newsletter, please UNSUBSCRIBE.</div>
+    <div class="spacer-15"></div>
+    <div class="center fine">GAZMAN · 1320 Malvern Road · Malvern · Melbourne, VIC 3144 · Australia</div>
+  </footer>
+</body>
+</html>
